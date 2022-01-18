@@ -2,9 +2,9 @@
 
 namespace ConsoleApp
 {
-    class Program
+    public class Program
     {
-        public static void Main()
+        public static void Main( )
         {
             Console.WriteLine("Hello World!");
         }
